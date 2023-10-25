@@ -1,0 +1,48 @@
+####### Summary from annotate/reannotate #######
+
+Date/time:	2023-08-04 04:31:25
+
+#######    Files   #######
+Genome:	Acetobacteraceae_Diaphorina_citri_CADCRV1.gbff
+Database:	/home/diego.franco/qnap/db_nr/nr
+Reference Genome:	None
+BlastP:	AcetoCADCRV_pseudofinder_proteome.faa.blastP_output.tsv
+BlastX:	AcetoCADCRV_pseudofinder_intergenic.fasta.blastX_output.tsv
+Pseudogenes (GFF):	AcetoCADCRV_pseudofinder_pseudos.gff
+Pseudogenes (Fasta):	AcetoCADCRV_pseudofinder_pseudos.fasta
+Intact genes (GFF):	AcetoCADCRV_pseudofinder_intact.gff
+Intact genes (protein seq):	AcetoCADCRV_pseudofinder_intact.faa
+Intact genes (nucleotide seq):	AcetoCADCRV_pseudofinder_intact.ffn
+Chromosome map:	AcetoCADCRV_pseudofinder_map.pdf
+
+#######  Settings  #######
+Distance:	None
+hitcap:	15
+Intergenic_length:	30
+Intergenic_threshold:	0.3
+Length_pseudo:	0.65
+Shared_hits:	0.5
+contig_ends:	False
+no_bidirectional_length:	False
+use_alignment:	False
+max_dnds:	0.3
+####### Statistics #######
+#Input:
+Initial ORFs:	1909
+Initial pseudogenes:	0
+Number of contigs:	1
+#Output:
+Inital ORFs joined:	12
+Pseudogenes (total):	70
+Pseudogenes (too short):	27
+Pseudogenes (fragmented):	5
+Pseudogenes (no predicted ORF):	21
+Pseudogenes (high dN/dS):	0
+Intact genes:	1855
+
+####### Output Key #######
+Initial ORFs joined:		The number of input open reading frames that have been merged and flagged as a fragmented pseudogene.
+Pseudogenes (too short):	ORFs smaller than the "shared_hits" cutoff.
+Pseudogenes (fragmented):	Pseudogenes composed of merging 2 or more input ORFs.
+Pseudogenes (high dN/dS):	Incipient pseudogenes that look intact, but have an elevated dN/dS value compared to a reference gene.
+Intact genes:		[Initial ORFs] - [Initial ORFs joined] - [Pseudogenes (too short)] - [Pseudogenes (high dN/dS)]

@@ -1,0 +1,574 @@
+##gff-version 3
+#!annotation-date	2023-09-15 16:35:32
+##sequence-region A_bog_W19_1 1 165677
+##sequence-region A_bog_W19_2 1 537
+##sequence-region A_bog_W19_3 1 22234
+##sequence-region A_bog_W19_4 1 4511
+##sequence-region A_bog_W19_5 1 3058
+##sequence-region A_bog_W19_6 1 1104
+##sequence-region A_bog_W19_7 1 1388
+##sequence-region A_bog_W19_8 1 910
+##sequence-region A_bog_W19_9 1 3034
+##sequence-region A_bog_W19_10 1 10270
+##sequence-region A_bog_W19_11 1 1814
+##sequence-region A_bog_W19_12 1 1940
+##sequence-region A_bog_W19_13 1 3419
+##sequence-region A_bog_W19_14 1 3636
+##sequence-region A_bog_W19_15 1 12074
+##sequence-region A_bog_W19_16 1 739
+##sequence-region A_bog_W19_17 1 7306
+##sequence-region A_bog_W19_18 1 2372
+##sequence-region A_bog_W19_19 1 12484
+##sequence-region A_bog_W19_20 1 1036
+##sequence-region A_bog_W19_21 1 3477
+##sequence-region A_bog_W19_22 1 1827
+##sequence-region A_bog_W19_23 1 1186
+##sequence-region A_bog_W19_24 1 2441
+##sequence-region A_bog_W19_25 1 1582
+##sequence-region A_bog_W19_26 1 782
+##sequence-region A_bog_W19_27 1 1368
+##sequence-region A_bog_W19_28 1 2654
+##sequence-region A_bog_W19_29 1 5721
+##sequence-region A_bog_W19_30 1 790
+##sequence-region A_bog_W19_31 1 1051
+##sequence-region A_bog_W19_32 1 1727
+##sequence-region A_bog_W19_33 1 9711
+##sequence-region A_bog_W19_34 1 3421
+##sequence-region A_bog_W19_35 1 421129
+##sequence-region A_bog_W19_36 1 869
+##sequence-region A_bog_W19_37 1 2271
+##sequence-region A_bog_W19_38 1 1310
+##sequence-region A_bog_W19_39 1 1869
+##sequence-region A_bog_W19_40 1 998
+##sequence-region A_bog_W19_41 1 770
+##sequence-region A_bog_W19_42 1 1989
+##sequence-region A_bog_W19_43 1 2589
+##sequence-region A_bog_W19_44 1 1191
+##sequence-region A_bog_W19_45 1 3019
+##sequence-region A_bog_W19_46 1 779
+##sequence-region A_bog_W19_47 1 2322
+##sequence-region A_bog_W19_48 1 689
+##sequence-region A_bog_W19_49 1 7163
+##sequence-region A_bog_W19_50 1 1501
+##sequence-region A_bog_W19_51 1 2717
+##sequence-region A_bog_W19_52 1 2253
+##sequence-region A_bog_W19_53 1 1763
+##sequence-region A_bog_W19_54 1 1085
+##sequence-region A_bog_W19_55 1 1734
+##sequence-region A_bog_W19_56 1 2925
+##sequence-region A_bog_W19_57 1 1983
+##sequence-region A_bog_W19_58 1 673
+##sequence-region A_bog_W19_59 1 541
+##sequence-region A_bog_W19_60 1 1717
+##sequence-region A_bog_W19_61 1 1786
+##sequence-region A_bog_W19_62 1 2843
+##sequence-region A_bog_W19_63 1 1465
+##sequence-region A_bog_W19_64 1 1423
+##sequence-region A_bog_W19_65 1 963
+##sequence-region A_bog_W19_66 1 1126
+##sequence-region A_bog_W19_67 1 47041
+##sequence-region A_bog_W19_68 1 1078
+##sequence-region A_bog_W19_69 1 993
+##sequence-region A_bog_W19_70 1 2637
+##sequence-region A_bog_W19_71 1 3176
+##sequence-region A_bog_W19_72 1 2071
+##sequence-region A_bog_W19_73 1 1022
+##sequence-region A_bog_W19_74 1 2101
+##sequence-region A_bog_W19_75 1 2694
+##sequence-region A_bog_W19_76 1 2622
+##sequence-region A_bog_W19_77 1 823
+##sequence-region A_bog_W19_78 1 53066
+##sequence-region A_bog_W19_79 1 1207
+##sequence-region A_bog_W19_80 1 1916
+##sequence-region A_bog_W19_81 1 932
+##sequence-region A_bog_W19_82 1 1185
+##sequence-region A_bog_W19_83 1 1756
+##sequence-region A_bog_W19_84 1 2018
+##sequence-region A_bog_W19_85 1 2482
+##sequence-region A_bog_W19_86 1 1440
+##sequence-region A_bog_W19_87 1 1173
+##sequence-region A_bog_W19_88 1 873
+##sequence-region A_bog_W19_89 1 5566
+##sequence-region A_bog_W19_90 1 1534
+##sequence-region A_bog_W19_91 1 3142
+##sequence-region A_bog_W19_92 1 1021
+##sequence-region A_bog_W19_93 1 2065
+##sequence-region A_bog_W19_94 1 2361
+##sequence-region A_bog_W19_95 1 2674
+##sequence-region A_bog_W19_96 1 1585
+##sequence-region A_bog_W19_97 1 665
+##sequence-region A_bog_W19_98 1 1114
+##sequence-region A_bog_W19_99 1 1671
+##sequence-region A_bog_W19_100 1 843
+##sequence-region A_bog_W19_101 1 1337
+##sequence-region A_bog_W19_102 1 1763
+##sequence-region A_bog_W19_103 1 1393
+##sequence-region A_bog_W19_104 1 2043
+##sequence-region A_bog_W19_105 1 1047
+##sequence-region A_bog_W19_106 1 3321
+##sequence-region A_bog_W19_107 1 962
+##sequence-region A_bog_W19_108 1 946
+##sequence-region A_bog_W19_109 1 995
+##sequence-region A_bog_W19_110 1 3007
+##sequence-region A_bog_W19_111 1 588
+##sequence-region A_bog_W19_112 1 297295
+##sequence-region A_bog_W19_113 1 1778
+##sequence-region A_bog_W19_114 1 1355
+##sequence-region A_bog_W19_115 1 1321
+##sequence-region A_bog_W19_116 1 6313
+##sequence-region A_bog_W19_117 1 2381
+##sequence-region A_bog_W19_118 1 2106
+##sequence-region A_bog_W19_119 1 1171
+##sequence-region A_bog_W19_120 1 831
+##sequence-region A_bog_W19_121 1 1252
+##sequence-region A_bog_W19_122 1 1053
+##sequence-region A_bog_W19_123 1 63593
+##sequence-region A_bog_W19_124 1 1096
+##sequence-region A_bog_W19_125 1 841
+##sequence-region A_bog_W19_126 1 1338
+##sequence-region A_bog_W19_127 1 607
+##sequence-region A_bog_W19_128 1 950
+##sequence-region A_bog_W19_129 1 1434
+##sequence-region A_bog_W19_130 1 548
+##sequence-region A_bog_W19_131 1 487
+##sequence-region A_bog_W19_132 1 1098
+##sequence-region A_bog_W19_133 1 1090
+##sequence-region A_bog_W19_134 1 2858
+##sequence-region A_bog_W19_135 1 1732
+##sequence-region A_bog_W19_136 1 1146
+##sequence-region A_bog_W19_137 1 999
+##sequence-region A_bog_W19_138 1 2502
+##sequence-region A_bog_W19_139 1 698
+##sequence-region A_bog_W19_140 1 968
+##sequence-region A_bog_W19_141 1 1646
+##sequence-region A_bog_W19_142 1 811
+##sequence-region A_bog_W19_143 1 873
+##sequence-region A_bog_W19_144 1 556
+##sequence-region A_bog_W19_145 1 3434
+##sequence-region A_bog_W19_146 1 878
+##sequence-region A_bog_W19_147 1 772
+##sequence-region A_bog_W19_148 1 1692
+##sequence-region A_bog_W19_149 1 758
+##sequence-region A_bog_W19_150 1 1399
+##sequence-region A_bog_W19_151 1 8939
+##sequence-region A_bog_W19_152 1 234187
+##sequence-region A_bog_W19_153 1 1600
+##sequence-region A_bog_W19_154 1 2044
+##sequence-region A_bog_W19_155 1 5035
+##sequence-region A_bog_W19_156 1 18783
+##sequence-region A_bog_W19_157 1 12611
+##sequence-region A_bog_W19_158 1 16547
+##sequence-region A_bog_W19_159 1 112944
+##sequence-region A_bog_W19_160 1 1528
+##sequence-region A_bog_W19_161 1 1528
+##sequence-region A_bog_W19_162 1 31889
+##sequence-region A_bog_W19_163 1 3523
+##sequence-region A_bog_W19_164 1 635
+##sequence-region A_bog_W19_165 1 2023
+##sequence-region A_bog_W19_166 1 2510
+##sequence-region A_bog_W19_167 1 51249
+##sequence-region A_bog_W19_168 1 2330
+##sequence-region A_bog_W19_169 1 81669
+##sequence-region A_bog_W19_170 1 3964
+##sequence-region A_bog_W19_171 1 5921
+##sequence-region A_bog_W19_172 1 166869
+##sequence-region A_bog_W19_173 1 4210
+##sequence-region A_bog_W19_174 1 4340
+##sequence-region A_bog_W19_175 1 4674
+##sequence-region A_bog_W19_176 1 128297
+##sequence-region A_bog_W19_177 1 86556
+##sequence-region A_bog_W19_178 1 1070
+##sequence-region A_bog_W19_179 1 15604
+##sequence-region A_bog_W19_180 1 9548
+##sequence-region A_bog_W19_181 1 474
+##sequence-region A_bog_W19_182 1 18209
+##sequence-region A_bog_W19_183 1 31574
+##sequence-region A_bog_W19_184 1 44059
+##sequence-region A_bog_W19_185 1 1018
+##sequence-region A_bog_W19_186 1 730
+##sequence-region A_bog_W19_187 1 1123
+##sequence-region A_bog_W19_188 1 2074
+##sequence-region A_bog_W19_189 1 1766
+##sequence-region A_bog_W19_190 1 140985
+##sequence-region A_bog_W19_191 1 84393
+##sequence-region A_bog_W19_192 1 280065
+##sequence-region A_bog_W19_193 1 22195
+##sequence-region A_bog_W19_194 1 73875
+##sequence-region A_bog_W19_195 1 83264
+##sequence-region A_bog_W19_196 1 70518
+##sequence-region A_bog_W19_197 1 4223
+##sequence-region A_bog_W19_198 1 183081
+##sequence-region A_bog_W19_199 1 69376
+##sequence-region A_bog_W19_200 1 3852
+##sequence-region A_bog_W19_201 1 16534
+##sequence-region A_bog_W19_202 1 162184
+##sequence-region A_bog_W19_203 1 6487
+##sequence-region A_bog_W19_204 1 29537
+##sequence-region A_bog_W19_205 1 8443
+##sequence-region A_bog_W19_206 1 34181
+##sequence-region A_bog_W19_207 1 14571
+##sequence-region A_bog_W19_208 1 5159
+##sequence-region A_bog_W19_209 1 5922
+##sequence-region A_bog_W19_210 1 20975
+##sequence-region A_bog_W19_211 1 3790
+##sequence-region A_bog_W19_212 1 43473
+##sequence-region A_bog_W19_213 1 4084
+##sequence-region A_bog_W19_214 1 3088
+##sequence-region A_bog_W19_215 1 9201
+##sequence-region A_bog_W19_216 1 3302
+##sequence-region A_bog_W19_217 1 1671
+##sequence-region A_bog_W19_218 1 6139
+##sequence-region A_bog_W19_219 1 3553
+##sequence-region A_bog_W19_220 1 17284
+##sequence-region A_bog_W19_221 1 8443
+##sequence-region A_bog_W19_222 1 1730
+##sequence-region A_bog_W19_223 1 1561
+##sequence-region A_bog_W19_224 1 2222
+##sequence-region A_bog_W19_225 1 3170
+##sequence-region A_bog_W19_226 1 2844
+##sequence-region A_bog_W19_227 1 10025
+##sequence-region A_bog_W19_228 1 774
+##sequence-region A_bog_W19_229 1 2208
+A_bog_W19_78	pseudofinder	gene	1007	1216	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_78_pseudo_00001;old_locus_tag=A_bog_W19_78_ign_00001
+A_bog_W19_167	pseudofinder	gene	4297	4455	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 5 blast hits.;locus_tag=A_bog_W19_167_pseudo_00002;old_locus_tag=A_bog_W19_167_ign_00004
+A_bog_W19_167	pseudofinder	gene	4526	4697	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 57.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_167_pseudo_00003;old_locus_tag=A_bog_W19_01743
+A_bog_W19_167	pseudofinder	gene	4845	5183	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_167_pseudo_00004;old_locus_tag=A_bog_W19_167_ign_00005
+A_bog_W19_112	pseudofinder	gene	27	1596	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 38.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_112_pseudo_00005;old_locus_tag=A_bog_W19_00955
+A_bog_W19_152	pseudofinder	gene	233572	234148	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 32.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_152_pseudo_00006;old_locus_tag=A_bog_W19_01534
+A_bog_W19_182	pseudofinder	gene	11506	14170	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 155.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_182_pseudo_00007;old_locus_tag=A_bog_W19_02278
+A_bog_W19_196	pseudofinder	gene	22248	22527	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 32.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_196_pseudo_00008;old_locus_tag=A_bog_W19_03048
+A_bog_W19_167	pseudofinder	gene	5804	6435	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_167_pseudo_00009;old_locus_tag=A_bog_W19_167_ign_00006
+A_bog_W19_174	pseudofinder	gene	2661	3138	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 14.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_174_pseudo_00010;old_locus_tag=A_bog_W19_02022
+A_bog_W19_167	pseudofinder	gene	5357	5672	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 55.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_167_pseudo_00011;old_locus_tag=A_bog_W19_01744
+A_bog_W19_206	pseudofinder	gene	10771	11208	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_206_pseudo_00012;old_locus_tag=A_bog_W19_206_ign_00006
+A_bog_W19_78	pseudofinder	gene	10811	11071	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 9 blast hits.;locus_tag=A_bog_W19_78_pseudo_00013;old_locus_tag=A_bog_W19_78_ign_00005
+A_bog_W19_112	pseudofinder	gene	9079	9594	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_112_pseudo_00014;old_locus_tag=A_bog_W19_112_ign_00007
+A_bog_W19_8	pseudofinder	gene	34	664	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 64.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_8_pseudo_00015;old_locus_tag=A_bog_W19_00184
+A_bog_W19_153	pseudofinder	gene	666	1446	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 32.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_153_pseudo_00016;old_locus_tag=A_bog_W19_01536
+A_bog_W19_160	pseudofinder	gene	358	715	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 191.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_160_pseudo_00017;old_locus_tag=A_bog_W19_01699
+A_bog_W19_192	pseudofinder	gene	228190	228811	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 43.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_192_pseudo_00018;old_locus_tag=A_bog_W19_02802
+A_bog_W19_202	pseudofinder	gene	2253	2414	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_202_pseudo_00019;old_locus_tag=A_bog_W19_202_ign_00003
+A_bog_W19_175	pseudofinder	gene	1712	2057	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 52.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_175_pseudo_00020;old_locus_tag=A_bog_W19_02024
+A_bog_W19_162	pseudofinder	gene	25025	25490	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 50.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_162_pseudo_00021;old_locus_tag=A_bog_W19_01719
+A_bog_W19_78	pseudofinder	gene	25189	25512	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 7 blast hits.;locus_tag=A_bog_W19_78_pseudo_00022;old_locus_tag=A_bog_W19_78_ign_00010
+A_bog_W19_192	pseudofinder	gene	70852	70995	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 11 blast hits.;locus_tag=A_bog_W19_192_pseudo_00023;old_locus_tag=A_bog_W19_192_ign_00037
+A_bog_W19_195	pseudofinder	gene	55302	55796	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_195_pseudo_00024;old_locus_tag=A_bog_W19_195_ign_00038
+A_bog_W19_175	pseudofinder	gene	2769	3600	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 17.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_175_pseudo_00025;old_locus_tag=A_bog_W19_02025
+A_bog_W19_35	pseudofinder	gene	332910	333158	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 13 blast hits.;locus_tag=A_bog_W19_35_pseudo_00026;old_locus_tag=A_bog_W19_35_ign_00182
+A_bog_W19_78	pseudofinder	gene	30797	31075	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_78_pseudo_00027;old_locus_tag=A_bog_W19_78_ign_00012
+A_bog_W19_1	pseudofinder	gene	42142	42681	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_1_pseudo_00028;old_locus_tag=A_bog_W19_00041,A_bog_W19_1_ign_00024
+A_bog_W19_175	pseudofinder	gene	3572	4448	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 27.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_175_pseudo_00029;old_locus_tag=A_bog_W19_02026
+A_bog_W19_192	pseudofinder	gene	279334	279889	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 53.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_192_pseudo_00030;old_locus_tag=A_bog_W19_02857
+A_bog_W19_221	pseudofinder	gene	41	824	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 64.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_221_pseudo_00031;old_locus_tag=A_bog_W19_03665
+A_bog_W19_78	pseudofinder	gene	39420	39593	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_78_pseudo_00032;old_locus_tag=A_bog_W19_78_ign_00016
+A_bog_W19_195	pseudofinder	gene	82183	82761	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_195_pseudo_00033;old_locus_tag=A_bog_W19_195_ign_00044
+A_bog_W19_193	pseudofinder	gene	118	466	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 53.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_193_pseudo_00034;old_locus_tag=A_bog_W19_02858
+A_bog_W19_162	pseudofinder	gene	30660	31122	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 50.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_162_pseudo_00035;old_locus_tag=A_bog_W19_01723
+A_bog_W19_192	pseudofinder	gene	89264	89467	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_192_pseudo_00036;old_locus_tag=A_bog_W19_192_ign_00044
+A_bog_W19_10	pseudofinder	gene	11	275	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 13.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_10_pseudo_00037;old_locus_tag=A_bog_W19_00189
+A_bog_W19_206	pseudofinder	gene	33796	33870	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_206_pseudo_00038;old_locus_tag=A_bog_W19_206_ign_00020
+A_bog_W19_162	pseudofinder	gene	31332	31668	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 64.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_162_pseudo_00039;old_locus_tag=A_bog_W19_01724
+A_bog_W19_212	pseudofinder	gene	24	465	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 48.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_212_pseudo_00040;old_locus_tag=A_bog_W19_03580
+A_bog_W19_196	pseudofinder	gene	45259	45453	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 13 blast hits.;locus_tag=A_bog_W19_196_pseudo_00041;old_locus_tag=A_bog_W19_196_ign_00026
+A_bog_W19_219	pseudofinder	gene	24	2718	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 60.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_219_pseudo_00042;old_locus_tag=A_bog_W19_03649
+A_bog_W19_112	pseudofinder	gene	276518	278029	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_112_pseudo_00043;old_locus_tag=A_bog_W19_01210,A_bog_W19_112_ign_00164
+A_bog_W19_171	pseudofinder	gene	5241	5543	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_171_pseudo_00044;old_locus_tag=A_bog_W19_171_ign_00005
+A_bog_W19_192	pseudofinder	gene	234978	235569	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 19.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_192_pseudo_00045;old_locus_tag=A_bog_W19_02809
+A_bog_W19_78	pseudofinder	gene	51038	51340	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_78_pseudo_00046;old_locus_tag=A_bog_W19_78_ign_00023
+A_bog_W19_34	pseudofinder	gene	34	418	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 13.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_34_pseudo_00047;old_locus_tag=A_bog_W19_00289
+A_bog_W19_35	pseudofinder	gene	131851	132930	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_35_pseudo_00048;old_locus_tag=A_bog_W19_00412,A_bog_W19_35_ign_00067
+A_bog_W19_212	pseudofinder	gene	42660	43473	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 37.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_212_pseudo_00049;old_locus_tag=A_bog_W19_03624
+A_bog_W19_78	pseudofinder	gene	52115	52249	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 6 blast hits.;locus_tag=A_bog_W19_78_pseudo_00050;old_locus_tag=A_bog_W19_78_ign_00024
+A_bog_W19_35	pseudofinder	gene	139635	140651	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_35_pseudo_00051;old_locus_tag=A_bog_W19_00415,A_bog_W19_35_ign_00070
+A_bog_W19_56	pseudofinder	gene	1	1129	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 58.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_56_pseudo_00052;old_locus_tag=A_bog_W19_00714
+A_bog_W19_61	pseudofinder	gene	29	458	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 35.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_61_pseudo_00053;old_locus_tag=A_bog_W19_00721
+A_bog_W19_121	pseudofinder	gene	9	1212	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 62.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_121_pseudo_00054;old_locus_tag=A_bog_W19_01243
+A_bog_W19_62	pseudofinder	gene	435	575	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_62_pseudo_00055;old_locus_tag=A_bog_W19_62_ign_00001
+A_bog_W19_35	pseudofinder	gene	252466	252942	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_35_pseudo_00056;old_locus_tag=A_bog_W19_35_ign_00133,A_bog_W19_00524
+A_bog_W19_62	pseudofinder	gene	669	944	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_62_pseudo_00057;old_locus_tag=A_bog_W19_62_ign_00002
+A_bog_W19_35	pseudofinder	gene	309988	310455	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_35_pseudo_00058;old_locus_tag=A_bog_W19_00570,A_bog_W19_35_ign_00164
+A_bog_W19_172	pseudofinder	gene	146607	147138	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 44.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_172_pseudo_00059;old_locus_tag=A_bog_W19_01993
+A_bog_W19_192	pseudofinder	gene	226023	226301	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 9 blast hits.;locus_tag=A_bog_W19_192_pseudo_00060;old_locus_tag=A_bog_W19_192_ign_00116
+A_bog_W19_192	pseudofinder	gene	236135	238082	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 214.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_192_pseudo_00061;old_locus_tag=A_bog_W19_02811
+A_bog_W19_61	pseudofinder	gene	480	768	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 14.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_61_pseudo_00062;old_locus_tag=A_bog_W19_00722
+A_bog_W19_85	pseudofinder	gene	504	941	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_85_pseudo_00063;old_locus_tag=A_bog_W19_85_ign_00001
+A_bog_W19_35	pseudofinder	gene	312281	313387	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_35_pseudo_00064;old_locus_tag=A_bog_W19_35_ign_00167,A_bog_W19_00573
+A_bog_W19_167	pseudofinder	gene	49049	50392	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_167_pseudo_00065;old_locus_tag=A_bog_W19_167_ign_00031
+A_bog_W19_35	pseudofinder	gene	316586	317662	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_35_pseudo_00066;old_locus_tag=A_bog_W19_35_ign_00169,A_bog_W19_00578
+A_bog_W19_172	pseudofinder	gene	147156	147906	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 64.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_172_pseudo_00067;old_locus_tag=A_bog_W19_01994
+A_bog_W19_61	pseudofinder	gene	815	1103	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 25.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_61_pseudo_00068;old_locus_tag=A_bog_W19_00723
+A_bog_W19_66	pseudofinder	gene	511	579	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 13 blast hits.;locus_tag=A_bog_W19_66_pseudo_00069;old_locus_tag=A_bog_W19_66_ign_00001
+A_bog_W19_34	pseudofinder	gene	2258	3155	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 49.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_34_pseudo_00070;old_locus_tag=A_bog_W19_00292
+A_bog_W19_89	pseudofinder	gene	973	1479	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_89_pseudo_00071;old_locus_tag=A_bog_W19_00915,A_bog_W19_89_ign_00002
+A_bog_W19_179	pseudofinder	gene	11539	12196	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 157.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_179_pseudo_00072;old_locus_tag=A_bog_W19_02252
+A_bog_W19_157	pseudofinder	gene	12150	12585	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_157_pseudo_00073;old_locus_tag=A_bog_W19_01578,A_bog_W19_01577,A_bog_W19_157_ign_00010
+A_bog_W19_158	pseudofinder	gene	4522	4902	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_158_pseudo_00074;old_locus_tag=A_bog_W19_01584,A_bog_W19_158_ign_00004
+A_bog_W19_190	pseudofinder	gene	62530	63418	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 149.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_190_pseudo_00075;old_locus_tag=A_bog_W19_02444
+A_bog_W19_57	pseudofinder	gene	132	720	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 50.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_57_pseudo_00076;old_locus_tag=A_bog_W19_00717
+A_bog_W19_159	pseudofinder	gene	51053	52447	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_159_pseudo_00077;old_locus_tag=A_bog_W19_01641,A_bog_W19_159_ign_00027
+A_bog_W19_67	pseudofinder	gene	6086	6370	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_67_pseudo_00078;old_locus_tag=A_bog_W19_67_ign_00004
+A_bog_W19_154	pseudofinder	gene	229	788	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_154_pseudo_00079;old_locus_tag=A_bog_W19_01538,A_bog_W19_01537
+A_bog_W19_104	pseudofinder	gene	1675	2032	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 30.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_104_pseudo_00080;old_locus_tag=A_bog_W19_00945
+A_bog_W19_123	pseudofinder	gene	58	292	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 18.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_123_pseudo_00081;old_locus_tag=A_bog_W19_01246
+A_bog_W19_159	pseudofinder	gene	46102	48703	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 147.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_159_pseudo_00082;old_locus_tag=A_bog_W19_01639
+A_bog_W19_67	pseudofinder	gene	7938	8183	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_67_pseudo_00083;old_locus_tag=A_bog_W19_67_ign_00005
+A_bog_W19_90	pseudofinder	gene	337	585	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_90_pseudo_00084;old_locus_tag=A_bog_W19_90_ign_00001
+A_bog_W19_162	pseudofinder	gene	28526	28759	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 8 blast hits.;locus_tag=A_bog_W19_162_pseudo_00085;old_locus_tag=A_bog_W19_162_ign_00015
+A_bog_W19_17	pseudofinder	gene	7084	7258	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 38.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_17_pseudo_00086;old_locus_tag=A_bog_W19_00235
+A_bog_W19_105	pseudofinder	gene	258	840	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 41.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_105_pseudo_00087;old_locus_tag=A_bog_W19_00946
+A_bog_W19_104	pseudofinder	gene	1502	1672	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_104_pseudo_00088;old_locus_tag=A_bog_W19_104_ign_00001
+A_bog_W19_177	pseudofinder	gene	36156	36290	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 10 blast hits.;locus_tag=A_bog_W19_177_pseudo_00089;old_locus_tag=A_bog_W19_177_ign_00016
+A_bog_W19_67	pseudofinder	gene	14611	14955	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_67_pseudo_00090;old_locus_tag=A_bog_W19_67_ign_00009
+A_bog_W19_62	pseudofinder	gene	1486	2653	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 335.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_62_pseudo_00091;old_locus_tag=A_bog_W19_00727
+A_bog_W19_195	pseudofinder	gene	37641	38199	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 148.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_195_pseudo_00092;old_locus_tag=A_bog_W19_02993
+A_bog_W19_167	pseudofinder	gene	467	550	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_167_pseudo_00093;old_locus_tag=A_bog_W19_167_ign_00001
+A_bog_W19_152	pseudofinder	gene	230108	230398	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_152_pseudo_00094;old_locus_tag=A_bog_W19_152_ign_00088
+A_bog_W19_63	pseudofinder	gene	41	227	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 26.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_63_pseudo_00095;old_locus_tag=A_bog_W19_00728
+A_bog_W19_177	pseudofinder	gene	76917	77892	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 158.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_177_pseudo_00096;old_locus_tag=A_bog_W19_02228
+A_bog_W19_183	pseudofinder	gene	24084	24323	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_183_pseudo_00097;old_locus_tag=A_bog_W19_183_ign_00021
+A_bog_W19_198	pseudofinder	gene	29314	29566	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 49.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_198_pseudo_00098;old_locus_tag=A_bog_W19_03130
+A_bog_W19_112	pseudofinder	gene	235613	235774	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_112_pseudo_00099;old_locus_tag=A_bog_W19_112_ign_00130
+A_bog_W19_183	pseudofinder	gene	24538	24762	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_183_pseudo_00100;old_locus_tag=A_bog_W19_183_ign_00022
+A_bog_W19_112	pseudofinder	gene	52023	52121	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 8 blast hits.;locus_tag=A_bog_W19_112_pseudo_00101;old_locus_tag=A_bog_W19_112_ign_00026
+A_bog_W19_1	pseudofinder	gene	98491	98784	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_1_pseudo_00102;old_locus_tag=A_bog_W19_1_ign_00063
+A_bog_W19_192	pseudofinder	gene	108195	108554	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_192_pseudo_00103;old_locus_tag=A_bog_W19_192_ign_00054
+A_bog_W19_114	pseudofinder	gene	40	274	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 40.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_114_pseudo_00104;old_locus_tag=A_bog_W19_01229
+A_bog_W19_196	pseudofinder	gene	52588	52680	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 11 blast hits.;locus_tag=A_bog_W19_196_pseudo_00105;old_locus_tag=A_bog_W19_196_ign_00033
+A_bog_W19_151	pseudofinder	gene	4923	5904	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 162.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_151_pseudo_00106;old_locus_tag=A_bog_W19_01338
+A_bog_W19_37	pseudofinder	gene	818	1072	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_37_pseudo_00107;old_locus_tag=A_bog_W19_37_ign_00001
+A_bog_W19_37	pseudofinder	gene	1448	1570	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_37_pseudo_00108;old_locus_tag=A_bog_W19_37_ign_00002
+A_bog_W19_38	pseudofinder	gene	606	701	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_38_pseudo_00109;old_locus_tag=A_bog_W19_38_ign_00001
+A_bog_W19_115	pseudofinder	gene	39	225	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 10.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_115_pseudo_00110;old_locus_tag=A_bog_W19_01230
+A_bog_W19_145	pseudofinder	gene	2807	3395	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 52.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_145_pseudo_00111;old_locus_tag=A_bog_W19_01323
+A_bog_W19_196	pseudofinder	gene	116	596	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 37.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_196_pseudo_00112;old_locus_tag=A_bog_W19_03031
+A_bog_W19_39	pseudofinder	gene	494	961	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_39_pseudo_00113;old_locus_tag=A_bog_W19_39_ign_00001
+A_bog_W19_36	pseudofinder	gene	44	524	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 34.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_36_pseudo_00114;old_locus_tag=A_bog_W19_00670
+A_bog_W19_184	pseudofinder	gene	2609	2743	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_184_pseudo_00115;old_locus_tag=A_bog_W19_184_ign_00004
+A_bog_W19_196	pseudofinder	gene	63569	63664	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_196_pseudo_00116;old_locus_tag=A_bog_W19_196_ign_00040
+A_bog_W19_47	pseudofinder	gene	1138	1491	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_47_pseudo_00117;old_locus_tag=A_bog_W19_47_ign_00001
+A_bog_W19_151	pseudofinder	gene	8173	8497	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 25.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_151_pseudo_00118;old_locus_tag=A_bog_W19_01342
+A_bog_W19_49	pseudofinder	gene	860	1276	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_49_pseudo_00119;old_locus_tag=A_bog_W19_49_ign_00001
+A_bog_W19_112	pseudofinder	gene	272579	272720	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 41.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_112_pseudo_00120;old_locus_tag=A_bog_W19_01204
+A_bog_W19_184	pseudofinder	gene	2486	2609	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 52.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_184_pseudo_00121;old_locus_tag=A_bog_W19_02326
+A_bog_W19_151	pseudofinder	gene	8465	8933	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 35.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_151_pseudo_00122;old_locus_tag=A_bog_W19_01343
+A_bog_W19_169	pseudofinder	gene	58138	58472	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 12 blast hits.;locus_tag=A_bog_W19_169_pseudo_00123;old_locus_tag=A_bog_W19_169_ign_00030
+A_bog_W19_112	pseudofinder	gene	272787	272928	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 46.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_112_pseudo_00124;old_locus_tag=A_bog_W19_01205
+A_bog_W19_184	pseudofinder	gene	2746	3187	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 46.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_184_pseudo_00125;old_locus_tag=A_bog_W19_02327
+A_bog_W19_198	pseudofinder	gene	4209	4460	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_198_pseudo_00126;old_locus_tag=A_bog_W19_198_ign_00001
+A_bog_W19_198	pseudofinder	gene	5260	5552	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_198_pseudo_00127;old_locus_tag=A_bog_W19_198_ign_00002
+A_bog_W19_37	pseudofinder	gene	1571	2144	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 9.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_37_pseudo_00128;old_locus_tag=A_bog_W19_00674
+A_bog_W19_52	pseudofinder	gene	1520	1888	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_52_pseudo_00129;old_locus_tag=A_bog_W19_52_ign_00001
+A_bog_W19_112	pseudofinder	gene	272948	273089	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 33.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_112_pseudo_00130;old_locus_tag=A_bog_W19_01206
+A_bog_W19_148	pseudofinder	gene	98	782	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 54.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_148_pseudo_00131;old_locus_tag=A_bog_W19_01326
+A_bog_W19_184	pseudofinder	gene	3256	3637	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 42.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_184_pseudo_00132;old_locus_tag=A_bog_W19_02328
+A_bog_W19_198	pseudofinder	gene	6295	6531	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_198_pseudo_00133;old_locus_tag=A_bog_W19_198_ign_00003
+A_bog_W19_176	pseudofinder	gene	75365	76445	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 423.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_176_pseudo_00134;old_locus_tag=A_bog_W19_02114
+A_bog_W19_35	pseudofinder	gene	7120	7299	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_35_pseudo_00135;old_locus_tag=A_bog_W19_35_ign_00004
+A_bog_W19_89	pseudofinder	gene	4390	4537	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 20.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_89_pseudo_00136;old_locus_tag=A_bog_W19_00920
+A_bog_W19_133	pseudofinder	gene	6	411	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 25.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_133_pseudo_00137;old_locus_tag=A_bog_W19_01307
+A_bog_W19_152	pseudofinder	gene	232777	233571	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_152_pseudo_00138;old_locus_tag=A_bog_W19_152_ign_00092
+A_bog_W19_86	pseudofinder	gene	212	1067	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 61.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_86_pseudo_00139;old_locus_tag=A_bog_W19_00912
+A_bog_W19_198	pseudofinder	gene	97015	97164	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 6 blast hits.;locus_tag=A_bog_W19_198_pseudo_00140;old_locus_tag=A_bog_W19_198_ign_00048
+A_bog_W19_67	pseudofinder	gene	30091	30288	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 5 blast hits.;locus_tag=A_bog_W19_67_pseudo_00141;old_locus_tag=A_bog_W19_67_ign_00017
+A_bog_W19_46	pseudofinder	gene	94	523	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 42.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_46_pseudo_00142;old_locus_tag=A_bog_W19_00691
+A_bog_W19_183	pseudofinder	gene	23920	24061	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 33.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_183_pseudo_00143;old_locus_tag=A_bog_W19_02311
+A_bog_W19_155	pseudofinder	gene	1863	2300	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_155_pseudo_00144;old_locus_tag=A_bog_W19_155_ign_00001
+A_bog_W19_47	pseudofinder	gene	136	472	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 28.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_47_pseudo_00145;old_locus_tag=A_bog_W19_00692
+A_bog_W19_183	pseudofinder	gene	13594	13900	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 54.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_183_pseudo_00146;old_locus_tag=A_bog_W19_02302
+A_bog_W19_90	pseudofinder	gene	115	337	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 1.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_90_pseudo_00147;old_locus_tag=A_bog_W19_00923
+A_bog_W19_47	pseudofinder	gene	484	1138	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 19.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_47_pseudo_00148;old_locus_tag=A_bog_W19_00693
+A_bog_W19_170	pseudofinder	gene	0	183	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 21.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_170_pseudo_00149;old_locus_tag=A_bog_W19_01861
+A_bog_W19_47	pseudofinder	gene	1492	1786	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 21.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_47_pseudo_00150;old_locus_tag=A_bog_W19_00694
+A_bog_W19_170	pseudofinder	gene	248	977	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 62.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_170_pseudo_00151;old_locus_tag=A_bog_W19_01862
+A_bog_W19_191	pseudofinder	gene	5975	6145	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_191_pseudo_00152;old_locus_tag=A_bog_W19_191_ign_00004
+A_bog_W19_48	pseudofinder	gene	485	650	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 24.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_48_pseudo_00153;old_locus_tag=A_bog_W19_00696
+A_bog_W19_137	pseudofinder	gene	71	518	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 39.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_137_pseudo_00154;old_locus_tag=A_bog_W19_01312
+A_bog_W19_171	pseudofinder	gene	6	1350	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 17.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_171_pseudo_00155;old_locus_tag=A_bog_W19_01864
+A_bog_W19_224	pseudofinder	gene	247	1579	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 36.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_224_pseudo_00156;old_locus_tag=A_bog_W19_03676
+A_bog_W19_137	pseudofinder	gene	475	919	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 32.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_137_pseudo_00157;old_locus_tag=A_bog_W19_01313
+A_bog_W19_204	pseudofinder	gene	869	1069	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_204_pseudo_00158;old_locus_tag=A_bog_W19_204_ign_00001
+A_bog_W19_63	pseudofinder	gene	258	1074	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 52.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_63_pseudo_00159;old_locus_tag=A_bog_W19_00729
+A_bog_W19_201	pseudofinder	gene	15599	16502	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 51.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_201_pseudo_00160;old_locus_tag=A_bog_W19_03338
+A_bog_W19_67	pseudofinder	gene	12026	12563	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 151.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_67_pseudo_00161;old_locus_tag=A_bog_W19_00758
+A_bog_W19_158	pseudofinder	gene	12995	13187	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 55.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_158_pseudo_00162;old_locus_tag=A_bog_W19_01593
+A_bog_W19_172	pseudofinder	gene	159561	160049	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_172_pseudo_00163;old_locus_tag=A_bog_W19_172_ign_00086
+A_bog_W19_64	pseudofinder	gene	202	1381	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 34.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_64_pseudo_00164;old_locus_tag=A_bog_W19_00730
+A_bog_W19_156	pseudofinder	gene	17901	18723	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 62.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_156_pseudo_00165;old_locus_tag=A_bog_W19_01564
+A_bog_W19_213	pseudofinder	gene	2027	2644	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_213_pseudo_00166;old_locus_tag=A_bog_W19_213_ign_00002
+A_bog_W19_35	pseudofinder	gene	298647	298998	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 14 blast hits.;locus_tag=A_bog_W19_35_pseudo_00167;old_locus_tag=A_bog_W19_35_ign_00155
+A_bog_W19_177	pseudofinder	gene	65413	65685	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_177_pseudo_00168;old_locus_tag=A_bog_W19_177_ign_00028
+A_bog_W19_208	pseudofinder	gene	4683	4946	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_208_pseudo_00169;old_locus_tag=A_bog_W19_208_ign_00003
+A_bog_W19_150	pseudofinder	gene	537	1353	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 28.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_150_pseudo_00170;old_locus_tag=A_bog_W19_01329
+A_bog_W19_174	pseudofinder	gene	1596	2104	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 11 blast hits.;locus_tag=A_bog_W19_174_pseudo_00171;old_locus_tag=A_bog_W19_174_ign_00001
+A_bog_W19_15	pseudofinder	gene	10888	11254	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 23.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_15_pseudo_00172;old_locus_tag=A_bog_W19_00223
+A_bog_W19_175	pseudofinder	gene	1022	1697	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_175_pseudo_00173;old_locus_tag=A_bog_W19_175_ign_00001
+A_bog_W19_222	pseudofinder	gene	797	1138	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_222_pseudo_00174;old_locus_tag=A_bog_W19_222_ign_00002
+A_bog_W19_112	pseudofinder	gene	273090	273332	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_112_pseudo_00175;old_locus_tag=A_bog_W19_112_ign_00160
+A_bog_W19_175	pseudofinder	gene	2110	2765	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_175_pseudo_00176;old_locus_tag=A_bog_W19_175_ign_00002
+A_bog_W19_112	pseudofinder	gene	112025	112201	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_112_pseudo_00177;old_locus_tag=A_bog_W19_112_ign_00057
+A_bog_W19_94	pseudofinder	gene	1423	2350	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 23.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_94_pseudo_00178;old_locus_tag=A_bog_W19_00932
+A_bog_W19_169	pseudofinder	gene	80999	81229	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_169_pseudo_00179;old_locus_tag=A_bog_W19_169_ign_00048
+A_bog_W19_177	pseudofinder	gene	77892	78194	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_177_pseudo_00180;old_locus_tag=A_bog_W19_177_ign_00036
+A_bog_W19_169	pseudofinder	gene	48231	51952	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_169_pseudo_00181;old_locus_tag=A_bog_W19_01829,A_bog_W19_01828
+A_bog_W19_190	pseudofinder	gene	140821	140968	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 10.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_190_pseudo_00182;old_locus_tag=A_bog_W19_02510
+A_bog_W19_193	pseudofinder	gene	3976	4170	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_193_pseudo_00183;old_locus_tag=A_bog_W19_193_ign_00005
+A_bog_W19_169	pseudofinder	gene	78911	80167	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_169_pseudo_00184;old_locus_tag=A_bog_W19_169_ign_00047,A_bog_W19_01858,A_bog_W19_169_ign_00046
+A_bog_W19_159	pseudofinder	gene	401	953	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 33.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_159_pseudo_00185;old_locus_tag=A_bog_W19_01599
+A_bog_W19_169	pseudofinder	gene	74288	77440	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_169_pseudo_00186;old_locus_tag=A_bog_W19_169_ign_00043,A_bog_W19_01854,A_bog_W19_169_ign_00044
+A_bog_W19_19	pseudofinder	gene	8027	8354	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 135.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_19_pseudo_00187;old_locus_tag=A_bog_W19_00245
+A_bog_W19_25	pseudofinder	gene	67	1150	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_25_pseudo_00188;old_locus_tag=A_bog_W19_25_ign_00001,A_bog_W19_00260,A_bog_W19_00261
+A_bog_W19_172	pseudofinder	gene	48853	49114	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 47.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_172_pseudo_00189;old_locus_tag=A_bog_W19_01905
+A_bog_W19_169	pseudofinder	gene	73016	73993	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_169_pseudo_00190;old_locus_tag=A_bog_W19_169_ign_00041,A_bog_W19_01852,A_bog_W19_169_ign_00042
+A_bog_W19_33	pseudofinder	gene	1149	1529	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_33_pseudo_00191;old_locus_tag=A_bog_W19_33_ign_00002,A_bog_W19_00280
+A_bog_W19_203	pseudofinder	gene	212	316	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_203_pseudo_00192;old_locus_tag=A_bog_W19_203_ign_00001
+A_bog_W19_205	pseudofinder	gene	6832	7419	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_205_pseudo_00193;old_locus_tag=A_bog_W19_205_ign_00006
+A_bog_W19_21	pseudofinder	gene	995	2170	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_21_pseudo_00194;old_locus_tag=A_bog_W19_00251,A_bog_W19_21_ign_00001
+A_bog_W19_171	pseudofinder	gene	1352	1915	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_171_pseudo_00195;old_locus_tag=A_bog_W19_171_ign_00002,A_bog_W19_171_ign_00001,A_bog_W19_01865
+A_bog_W19_172	pseudofinder	gene	49110	49413	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 57.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_172_pseudo_00196;old_locus_tag=A_bog_W19_01906
+A_bog_W19_1	pseudofinder	gene	56250	56936	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_1_pseudo_00197;old_locus_tag=A_bog_W19_00059,A_bog_W19_1_ign_00037
+A_bog_W19_172	pseudofinder	gene	12801	14372	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_172_pseudo_00198;old_locus_tag=A_bog_W19_172_ign_00007,A_bog_W19_01880
+A_bog_W19_67	pseudofinder	gene	27908	29240	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 188.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_67_pseudo_00199;old_locus_tag=A_bog_W19_00778
+A_bog_W19_190	pseudofinder	gene	3501	3674	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_190_pseudo_00200;old_locus_tag=A_bog_W19_190_ign_00003
+A_bog_W19_23	pseudofinder	gene	114	561	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 27.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_23_pseudo_00201;old_locus_tag=A_bog_W19_00255
+A_bog_W19_171	pseudofinder	gene	1917	3426	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 33.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_171_pseudo_00202;old_locus_tag=A_bog_W19_01866
+A_bog_W19_177	pseudofinder	gene	26049	28074	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 165.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_177_pseudo_00203;old_locus_tag=A_bog_W19_02187
+A_bog_W19_42	pseudofinder	gene	1726	1921	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 42.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_42_pseudo_00204;old_locus_tag=A_bog_W19_00682
+A_bog_W19_190	pseudofinder	gene	5810	6106	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_190_pseudo_00205;old_locus_tag=A_bog_W19_190_ign_00004
+A_bog_W19_38	pseudofinder	gene	18	600	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 57.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_38_pseudo_00206;old_locus_tag=A_bog_W19_00675
+A_bog_W19_192	pseudofinder	gene	208670	209498	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 62.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_192_pseudo_00207;old_locus_tag=A_bog_W19_02768
+A_bog_W19_190	pseudofinder	gene	10201	10351	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 10 blast hits.;locus_tag=A_bog_W19_190_pseudo_00208;old_locus_tag=A_bog_W19_190_ign_00006
+A_bog_W19_24	pseudofinder	gene	62	839	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 136.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_24_pseudo_00209;old_locus_tag=A_bog_W19_00256
+A_bog_W19_70	pseudofinder	gene	156	1077	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 44.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_70_pseudo_00210;old_locus_tag=A_bog_W19_00800
+A_bog_W19_172	pseudofinder	gene	58520	58648	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_172_pseudo_00211;old_locus_tag=A_bog_W19_172_ign_00027
+A_bog_W19_203	pseudofinder	gene	5682	6417	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 33.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_203_pseudo_00212;old_locus_tag=A_bog_W19_03486
+A_bog_W19_39	pseudofinder	gene	155	494	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 31.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_39_pseudo_00213;old_locus_tag=A_bog_W19_00677
+A_bog_W19_183	pseudofinder	gene	7114	7422	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_183_pseudo_00214;old_locus_tag=A_bog_W19_183_ign_00008
+A_bog_W19_43	pseudofinder	gene	2067	2532	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 59.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_43_pseudo_00215;old_locus_tag=A_bog_W19_00685
+A_bog_W19_171	pseudofinder	gene	4865	5240	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 201.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_171_pseudo_00216;old_locus_tag=A_bog_W19_01870
+A_bog_W19_190	pseudofinder	gene	44605	45241	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 158.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_190_pseudo_00217;old_locus_tag=A_bog_W19_02423
+A_bog_W19_206	pseudofinder	gene	11217	11415	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 9.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_206_pseudo_00218;old_locus_tag=A_bog_W19_03517
+A_bog_W19_24	pseudofinder	gene	1597	1876	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 26.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_24_pseudo_00219;old_locus_tag=A_bog_W19_00259
+A_bog_W19_118	pseudofinder	gene	1319	2009	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 47.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_118_pseudo_00220;old_locus_tag=A_bog_W19_01239
+A_bog_W19_140	pseudofinder	gene	41	554	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 53.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_140_pseudo_00221;old_locus_tag=A_bog_W19_01317
+A_bog_W19_44	pseudofinder	gene	54	645	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 42.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_44_pseudo_00222;old_locus_tag=A_bog_W19_00686
+A_bog_W19_84	pseudofinder	gene	1335	1905	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 50.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_84_pseudo_00223;old_locus_tag=A_bog_W19_00908
+A_bog_W19_176	pseudofinder	gene	64550	64768	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 5 blast hits.;locus_tag=A_bog_W19_176_pseudo_00224;old_locus_tag=A_bog_W19_176_ign_00024
+A_bog_W19_172	pseudofinder	gene	58288	58519	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 31.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_172_pseudo_00225;old_locus_tag=A_bog_W19_01914
+A_bog_W19_183	pseudofinder	gene	12456	12713	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_183_pseudo_00226;old_locus_tag=A_bog_W19_183_ign_00014
+A_bog_W19_41	pseudofinder	gene	36	426	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 43.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_41_pseudo_00227;old_locus_tag=A_bog_W19_00679
+A_bog_W19_141	pseudofinder	gene	105	816	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 51.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_141_pseudo_00228;old_locus_tag=A_bog_W19_01318
+A_bog_W19_71	pseudofinder	gene	6	237	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 31.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_71_pseudo_00229;old_locus_tag=A_bog_W19_00804
+A_bog_W19_85	pseudofinder	gene	19	436	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 48.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_85_pseudo_00230;old_locus_tag=A_bog_W19_00909
+A_bog_W19_172	pseudofinder	gene	58727	58958	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 32.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_172_pseudo_00231;old_locus_tag=A_bog_W19_01915
+A_bog_W19_191	pseudofinder	gene	48054	48299	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_191_pseudo_00232;old_locus_tag=A_bog_W19_191_ign_00027
+A_bog_W19_67	pseudofinder	gene	26241	26433	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 20.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_67_pseudo_00233;old_locus_tag=A_bog_W19_00776
+A_bog_W19_176	pseudofinder	gene	31378	31867	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 152.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_176_pseudo_00234;old_locus_tag=A_bog_W19_02070
+A_bog_W19_176	pseudofinder	gene	75200	75355	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 6 blast hits.;locus_tag=A_bog_W19_176_pseudo_00235;old_locus_tag=A_bog_W19_176_ign_00028
+A_bog_W19_25	pseudofinder	gene	1103	1505	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 32.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_25_pseudo_00236;old_locus_tag=A_bog_W19_00262
+A_bog_W19_123	pseudofinder	gene	54221	54367	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_123_pseudo_00237;old_locus_tag=A_bog_W19_123_ign_00030
+A_bog_W19_183	pseudofinder	gene	20583	21247	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_183_pseudo_00238;old_locus_tag=A_bog_W19_183_ign_00018
+A_bog_W19_192	pseudofinder	gene	214193	214403	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 47.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_192_pseudo_00239;old_locus_tag=A_bog_W19_02776
+A_bog_W19_67	pseudofinder	gene	11220	11787	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 135.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_67_pseudo_00240;old_locus_tag=A_bog_W19_00756
+A_bog_W19_123	pseudofinder	gene	54763	54861	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 11 blast hits.;locus_tag=A_bog_W19_123_pseudo_00241;old_locus_tag=A_bog_W19_123_ign_00031
+A_bog_W19_78	pseudofinder	gene	26299	26557	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 156.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_78_pseudo_00242;old_locus_tag=A_bog_W19_00853
+A_bog_W19_183	pseudofinder	gene	23673	23918	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_183_pseudo_00243;old_locus_tag=A_bog_W19_183_ign_00020
+A_bog_W19_176	pseudofinder	gene	82116	82286	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_176_pseudo_00244;old_locus_tag=A_bog_W19_176_ign_00031
+A_bog_W19_172	pseudofinder	gene	81302	81409	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 13 blast hits.;locus_tag=A_bog_W19_172_pseudo_00245;old_locus_tag=A_bog_W19_172_ign_00041
+A_bog_W19_158	pseudofinder	gene	1859	3026	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 335.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_158_pseudo_00246;old_locus_tag=A_bog_W19_01581
+A_bog_W19_172	pseudofinder	gene	53219	53974	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_172_pseudo_00247;old_locus_tag=A_bog_W19_172_ign_00026,A_bog_W19_01910
+A_bog_W19_71	pseudofinder	gene	1552	2173	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 43.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_71_pseudo_00248;old_locus_tag=A_bog_W19_00807
+A_bog_W19_163	pseudofinder	gene	328	925	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 59.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_163_pseudo_00249;old_locus_tag=A_bog_W19_01725
+A_bog_W19_198	pseudofinder	gene	182430	182973	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 49.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_198_pseudo_00250;old_locus_tag=A_bog_W19_03256
+A_bog_W19_172	pseudofinder	gene	81467	82012	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_172_pseudo_00251;old_locus_tag=A_bog_W19_01937,A_bog_W19_172_ign_00042
+A_bog_W19_29	pseudofinder	gene	5152	5650	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 55.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_29_pseudo_00252;old_locus_tag=A_bog_W19_00272
+A_bog_W19_177	pseudofinder	gene	86054	86177	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 52.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_177_pseudo_00253;old_locus_tag=A_bog_W19_02240
+A_bog_W19_176	pseudofinder	gene	115463	117073	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_176_pseudo_00254;old_locus_tag=A_bog_W19_176_ign_00049,A_bog_W19_02156
+A_bog_W19_179	pseudofinder	gene	471	695	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_179_pseudo_00255;old_locus_tag=A_bog_W19_179_ign_00001
+A_bog_W19_1	pseudofinder	gene	145814	145903	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 5 blast hits.;locus_tag=A_bog_W19_1_pseudo_00256;old_locus_tag=A_bog_W19_1_ign_00083
+A_bog_W19_113	pseudofinder	gene	251	487	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_113_pseudo_00257;old_locus_tag=A_bog_W19_113_ign_00001
+A_bog_W19_159	pseudofinder	gene	230	400	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_159_pseudo_00258;old_locus_tag=A_bog_W19_159_ign_00001
+A_bog_W19_179	pseudofinder	gene	1268	1405	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_179_pseudo_00259;old_locus_tag=A_bog_W19_179_ign_00002
+A_bog_W19_183	pseudofinder	gene	9458	9895	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_183_pseudo_00260;old_locus_tag=A_bog_W19_02296,A_bog_W19_183_ign_00011
+A_bog_W19_35	pseudofinder	gene	72902	73298	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 30.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_35_pseudo_00261;old_locus_tag=A_bog_W19_00363
+A_bog_W19_159	pseudofinder	gene	1342	1761	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_159_pseudo_00262;old_locus_tag=A_bog_W19_159_ign_00002
+A_bog_W19_184	pseudofinder	gene	3660	4173	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_184_pseudo_00263;old_locus_tag=A_bog_W19_02330,A_bog_W19_02329
+A_bog_W19_179	pseudofinder	gene	1779	2305	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_179_pseudo_00264;old_locus_tag=A_bog_W19_179_ign_00003
+A_bog_W19_1	pseudofinder	gene	144593	145814	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 164.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_1_pseudo_00265;old_locus_tag=A_bog_W19_00137
+A_bog_W19_198	pseudofinder	gene	73884	74316	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 64.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_198_pseudo_00266;old_locus_tag=A_bog_W19_03174
+A_bog_W19_184	pseudofinder	gene	35777	36253	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_184_pseudo_00267;old_locus_tag=A_bog_W19_02364,A_bog_W19_184_ign_00030
+A_bog_W19_30	pseudofinder	gene	29	458	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 51.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_30_pseudo_00268;old_locus_tag=A_bog_W19_00273
+A_bog_W19_128	pseudofinder	gene	50	539	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 48.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_128_pseudo_00269;old_locus_tag=A_bog_W19_01302
+A_bog_W19_229	pseudofinder	gene	1446	2187	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 40.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_229_pseudo_00270;old_locus_tag=A_bog_W19_03697
+A_bog_W19_29	pseudofinder	gene	881	1387	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_29_pseudo_00271;old_locus_tag=A_bog_W19_29_ign_00001
+A_bog_W19_192	pseudofinder	gene	130295	130720	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_192_pseudo_00272;old_locus_tag=A_bog_W19_02703,A_bog_W19_192_ign_00069
+A_bog_W19_1	pseudofinder	gene	98785	99211	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 63.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_1_pseudo_00273;old_locus_tag=A_bog_W19_00096
+A_bog_W19_192	pseudofinder	gene	177961	179490	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_192_pseudo_00274;old_locus_tag=A_bog_W19_192_ign_00087,A_bog_W19_02740
+A_bog_W19_30	pseudofinder	gene	373	727	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 21.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_30_pseudo_00275;old_locus_tag=A_bog_W19_00274
+A_bog_W19_128	pseudofinder	gene	637	892	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 33.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_128_pseudo_00276;old_locus_tag=A_bog_W19_01303
+A_bog_W19_178	pseudofinder	gene	912	1068	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 30.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_178_pseudo_00277;old_locus_tag=A_bog_W19_02242
+A_bog_W19_206	pseudofinder	gene	33412	33796	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 21.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_206_pseudo_00278;old_locus_tag=A_bog_W19_03537
+A_bog_W19_200	pseudofinder	gene	39	993	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_200_pseudo_00279;old_locus_tag=A_bog_W19_03318,A_bog_W19_200_ign_00001,A_bog_W19_03319
+A_bog_W19_72	pseudofinder	gene	42	1227	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 44.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_72_pseudo_00280;old_locus_tag=A_bog_W19_00810
+A_bog_W19_202	pseudofinder	gene	6801	7832	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_202_pseudo_00281;old_locus_tag=A_bog_W19_202_ign_00005,A_bog_W19_03348
+A_bog_W19_176	pseudofinder	gene	45347	46124	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 136.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_176_pseudo_00282;old_locus_tag=A_bog_W19_02087
+A_bog_W19_204	pseudofinder	gene	1094	2158	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_204_pseudo_00283;old_locus_tag=A_bog_W19_03488,A_bog_W19_204_ign_00002
+A_bog_W19_197	pseudofinder	gene	3296	4112	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 28.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_197_pseudo_00284;old_locus_tag=A_bog_W19_03104
+A_bog_W19_179	pseudofinder	gene	137	311	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 33.1% of the average length of hits to this gene.;locus_tag=A_bog_W19_179_pseudo_00285;old_locus_tag=A_bog_W19_02243
+A_bog_W19_207	pseudofinder	gene	7749	8426	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_207_pseudo_00286;old_locus_tag=A_bog_W19_207_ign_00004,A_bog_W19_03546
+A_bog_W19_165	pseudofinder	gene	136	808	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 50.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_165_pseudo_00287;old_locus_tag=A_bog_W19_01729
+A_bog_W19_1	pseudofinder	gene	76137	76609	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_1_pseudo_00288;old_locus_tag=A_bog_W19_1_ign_00050
+A_bog_W19_212	pseudofinder	gene	21679	22335	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_212_pseudo_00289;old_locus_tag=A_bog_W19_212_ign_00017,A_bog_W19_03604
+A_bog_W19_152	pseudofinder	gene	230541	230715	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 16.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_152_pseudo_00290;old_locus_tag=A_bog_W19_01529
+A_bog_W19_1	pseudofinder	gene	10947	11199	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_1_pseudo_00291;old_locus_tag=A_bog_W19_1_ign_00009
+A_bog_W19_17	pseudofinder	gene	2543	2710	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_17_pseudo_00292;old_locus_tag=A_bog_W19_17_ign_00002
+A_bog_W19_213	pseudofinder	gene	3275	3785	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_213_pseudo_00293;old_locus_tag=A_bog_W19_213_ign_00003,A_bog_W19_03628,A_bog_W19_03629
+A_bog_W19_176	pseudofinder	gene	48032	48413	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 29.3% of the average length of hits to this gene.;locus_tag=A_bog_W19_176_pseudo_00294;old_locus_tag=A_bog_W19_02089
+A_bog_W19_35	pseudofinder	gene	129188	129683	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 51.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_35_pseudo_00295;old_locus_tag=A_bog_W19_00410
+A_bog_W19_198	pseudofinder	gene	58	2848	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 27.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_198_pseudo_00296;old_locus_tag=A_bog_W19_03105
+A_bog_W19_215	pseudofinder	gene	5171	5773	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_215_pseudo_00297;old_locus_tag=A_bog_W19_215_ign_00004,A_bog_W19_03634
+A_bog_W19_202	pseudofinder	gene	93383	93878	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 158.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_202_pseudo_00298;old_locus_tag=A_bog_W19_03428
+A_bog_W19_226	pseudofinder	gene	1974	2844	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 54.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_226_pseudo_00299;old_locus_tag=A_bog_W19_03683
+A_bog_W19_17	pseudofinder	gene	3802	4042	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 12 blast hits.;locus_tag=A_bog_W19_17_pseudo_00300;old_locus_tag=A_bog_W19_17_ign_00004
+A_bog_W19_220	pseudofinder	gene	6493	7715	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=A_bog_W19_220_pseudo_00301;old_locus_tag=A_bog_W19_220_ign_00003,A_bog_W19_03655
+A_bog_W19_180	pseudofinder	gene	8646	8888	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_180_pseudo_00302;old_locus_tag=A_bog_W19_180_ign_00006
+A_bog_W19_227	pseudofinder	gene	9457	9862	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 48.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_227_pseudo_00303;old_locus_tag=A_bog_W19_03693
+A_bog_W19_123	pseudofinder	gene	54368	54761	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 61.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_123_pseudo_00304;old_locus_tag=A_bog_W19_01290
+A_bog_W19_198	pseudofinder	gene	27042	27198	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 36.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_198_pseudo_00305;old_locus_tag=A_bog_W19_03127
+A_bog_W19_22	pseudofinder	gene	9	249	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 27.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_22_pseudo_00306;old_locus_tag=A_bog_W19_00253
+A_bog_W19_32	pseudofinder	gene	1090	1702	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 45.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_32_pseudo_00307;old_locus_tag=A_bog_W19_00277
+A_bog_W19_202	pseudofinder	gene	53453	53740	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_202_pseudo_00308;old_locus_tag=A_bog_W19_202_ign_00033
+A_bog_W19_179	pseudofinder	gene	2306	2570	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 16.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_179_pseudo_00309;old_locus_tag=A_bog_W19_02246
+A_bog_W19_132	pseudofinder	gene	116	845	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 62.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_132_pseudo_00310;old_locus_tag=A_bog_W19_01305
+A_bog_W19_198	pseudofinder	gene	4461	4866	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 63.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_198_pseudo_00311;old_locus_tag=A_bog_W19_03107
+A_bog_W19_202	pseudofinder	gene	56168	56368	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_202_pseudo_00312;old_locus_tag=A_bog_W19_202_ign_00035
+A_bog_W19_216	pseudofinder	gene	2584	3277	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 51.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_216_pseudo_00313;old_locus_tag=A_bog_W19_03640
+A_bog_W19_2	pseudofinder	gene	80	494	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 27.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_2_pseudo_00314;old_locus_tag=A_bog_W19_00154
+A_bog_W19_132	pseudofinder	gene	910	1093	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 21.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_132_pseudo_00315;old_locus_tag=A_bog_W19_01306
+A_bog_W19_12	pseudofinder	gene	1088	1745	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 157.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_12_pseudo_00316;old_locus_tag=A_bog_W19_00200
+A_bog_W19_169	pseudofinder	gene	59215	59845	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 142.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_169_pseudo_00317;old_locus_tag=A_bog_W19_01836
+A_bog_W19_167	pseudofinder	gene	32	380	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 30.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_167_pseudo_00318;old_locus_tag=A_bog_W19_01733
+A_bog_W19_75	pseudofinder	gene	2209	2593	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 28.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_75_pseudo_00319;old_locus_tag=A_bog_W19_00815
+A_bog_W19_97	pseudofinder	gene	148	652	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 27.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_97_pseudo_00320;old_locus_tag=A_bog_W19_00935
+A_bog_W19_35	pseudofinder	gene	91687	91911	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 6 blast hits.;locus_tag=A_bog_W19_35_pseudo_00321;old_locus_tag=A_bog_W19_35_ign_00047
+A_bog_W19_191	pseudofinder	gene	38634	40182	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 151.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_191_pseudo_00322;old_locus_tag=A_bog_W19_02545
+A_bog_W19_167	pseudofinder	gene	552	903	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 146.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_167_pseudo_00323;old_locus_tag=A_bog_W19_01734
+A_bog_W19_198	pseudofinder	gene	26818	26955	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_198_pseudo_00324;old_locus_tag=A_bog_W19_198_ign_00008
+A_bog_W19_4	pseudofinder	gene	4102	4459	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 61.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_4_pseudo_00325;old_locus_tag=A_bog_W19_00177
+A_bog_W19_192	pseudofinder	gene	167919	168516	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 188.7% of the average length of hits to this gene.;locus_tag=A_bog_W19_192_pseudo_00326;old_locus_tag=A_bog_W19_02729
+A_bog_W19_198	pseudofinder	gene	31311	31814	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_198_pseudo_00327;old_locus_tag=A_bog_W19_198_ign_00012
+A_bog_W19_78	pseudofinder	gene	32631	32868	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 31.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_78_pseudo_00328;old_locus_tag=A_bog_W19_00869
+A_bog_W19_54	pseudofinder	gene	85	421	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 30.9% of the average length of hits to this gene.;locus_tag=A_bog_W19_54_pseudo_00329;old_locus_tag=A_bog_W19_00709
+A_bog_W19_188	pseudofinder	gene	1821	2028	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 37.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_188_pseudo_00330;old_locus_tag=A_bog_W19_02383
+A_bog_W19_99	pseudofinder	gene	58	1486	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 63.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_99_pseudo_00331;old_locus_tag=A_bog_W19_00938
+A_bog_W19_157	pseudofinder	gene	10902	11519	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=A_bog_W19_157_pseudo_00332;old_locus_tag=A_bog_W19_157_ign_00009
+A_bog_W19_184	pseudofinder	gene	26401	26569	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 29.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_184_pseudo_00333;old_locus_tag=A_bog_W19_02355
+A_bog_W19_184	pseudofinder	gene	43446	43992	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 63.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_184_pseudo_00334;old_locus_tag=A_bog_W19_02376
+A_bog_W19_109	pseudofinder	gene	68	968	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 39.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_109_pseudo_00335;old_locus_tag=A_bog_W19_00952
+A_bog_W19_151	pseudofinder	gene	2006	2185	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 9 blast hits.;locus_tag=A_bog_W19_151_pseudo_00336;old_locus_tag=A_bog_W19_151_ign_00002
+A_bog_W19_124	pseudofinder	gene	9	615	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 40.8% of the average length of hits to this gene.;locus_tag=A_bog_W19_124_pseudo_00337;old_locus_tag=A_bog_W19_01298
+A_bog_W19_54	pseudofinder	gene	624	771	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 32.0% of the average length of hits to this gene.;locus_tag=A_bog_W19_54_pseudo_00338;old_locus_tag=A_bog_W19_00711
+A_bog_W19_185	pseudofinder	gene	330	705	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 201.6% of the average length of hits to this gene.;locus_tag=A_bog_W19_185_pseudo_00339;old_locus_tag=A_bog_W19_02377
+A_bog_W19_125	pseudofinder	gene	41	707	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 58.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_125_pseudo_00340;old_locus_tag=A_bog_W19_01299
+A_bog_W19_167	pseudofinder	gene	3290	3461	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 36.5% of the average length of hits to this gene.;locus_tag=A_bog_W19_167_pseudo_00341;old_locus_tag=A_bog_W19_01740
+A_bog_W19_190	pseudofinder	gene	394	715	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 45.4% of the average length of hits to this gene.;locus_tag=A_bog_W19_190_pseudo_00342;old_locus_tag=A_bog_W19_02385
+A_bog_W19_55	pseudofinder	gene	66	570	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 54.2% of the average length of hits to this gene.;locus_tag=A_bog_W19_55_pseudo_00343;old_locus_tag=A_bog_W19_00712

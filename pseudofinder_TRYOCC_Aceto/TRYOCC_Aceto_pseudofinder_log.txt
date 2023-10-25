@@ -1,0 +1,48 @@
+####### Summary from annotate/reannotate #######
+
+Date/time:	2023-01-03 13:10:10
+
+#######    Files   #######
+Genome:	TRYOCC_Aceto.gbk
+Database:	/home/diego.franco/qnap/db_nr/nr
+Reference Genome:	../Acetobacteraceae_Diaphorina_citri_CADCRV1.fasta
+BlastP:	TRYOCC_Aceto_pseudofinder_proteome.faa.blastP_output.tsv
+BlastX:	TRYOCC_Aceto_pseudofinder_intergenic.fasta.blastX_output.tsv
+Pseudogenes (GFF):	TRYOCC_Aceto_pseudofinder_pseudos.gff
+Pseudogenes (Fasta):	TRYOCC_Aceto_pseudofinder_pseudos.fasta
+Intact genes (GFF):	TRYOCC_Aceto_pseudofinder_intact.gff
+Intact genes (protein seq):	TRYOCC_Aceto_pseudofinder_intact.faa
+Intact genes (nucleotide seq):	TRYOCC_Aceto_pseudofinder_intact.ffn
+Chromosome map:	TRYOCC_Aceto_pseudofinder_map.pdf
+
+#######  Settings  #######
+Distance:	None
+hitcap:	15
+Intergenic_length:	30
+Intergenic_threshold:	0.3
+Length_pseudo:	0.65
+Shared_hits:	0.5
+contig_ends:	False
+no_bidirectional_length:	False
+use_alignment:	False
+max_dnds:	0.3
+####### Statistics #######
+#Input:
+Initial ORFs:	2295
+Initial pseudogenes:	0
+Number of contigs:	1
+#Output:
+Inital ORFs joined:	203
+Pseudogenes (total):	831
+Pseudogenes (too short):	560
+Pseudogenes (fragmented):	88
+Pseudogenes (no predicted ORF):	174
+Pseudogenes (high dN/dS):	0
+Intact genes:	1546
+
+####### Output Key #######
+Initial ORFs joined:		The number of input open reading frames that have been merged and flagged as a fragmented pseudogene.
+Pseudogenes (too short):	ORFs smaller than the "shared_hits" cutoff.
+Pseudogenes (fragmented):	Pseudogenes composed of merging 2 or more input ORFs.
+Pseudogenes (high dN/dS):	Incipient pseudogenes that look intact, but have an elevated dN/dS value compared to a reference gene.
+Intact genes:		[Initial ORFs] - [Initial ORFs joined] - [Pseudogenes (too short)] - [Pseudogenes (high dN/dS)]
