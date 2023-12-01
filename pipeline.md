@@ -1,11 +1,13 @@
 ## Software requirement
 * [Trim_galore](https://github.com/FelixKrueger/TrimGalore)
-* [NCBI blast v2.11.0+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
 * [Anvi'o](https://anvio.org/)
 * [Megahit](https://github.com/voutcn/megahit)
-* [hmmer (version 3.2.1)](http://www.hmmer.org/)
 * [Bowtie2](https://github.com/BenLangmead/bowtie2)
-* 
+* [Samtools](https://www.htslib.org/)
+* [hmmer (version 3.2.1)](http://www.hmmer.org/)
+* [NCBI blast v2.11.0+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
+* [Bakta](https://github.com/oschwengers/bakta)
+* [Pseudofinder](https://github.com/filip-husnik/pseudofinder)
 
 ### Removing adapters using trim_galore
 ```shell
@@ -50,9 +52,9 @@ pseudofinder.py annotate --genome prokka_SD7/SD7.gbk --outprefix SD7_pseudofinde
 
 
 ## Contigs taxonomic classification against whole NCBI nucleotide database
-
+```shell
 blastn -query TRYOCC_contigs.fasta -db nt -outfmt '6 qseqid staxids bitscore std sscinames sskingdoms stitle' -evalue 1e-10 -task blastn -num_threads $NUM_THREADS -max_target_seqs 1 -max_hsps 1 > blastn_TRYOCC_contigs.txt
-
+```
 ## Getting Avg. fold, GC percentage and contig size information from bam file
 ```shell
 pileup.sh in=TRYOCC.bam out=cov_TRYOCC.txt
