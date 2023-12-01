@@ -6,6 +6,7 @@
 * [Samtools](https://www.htslib.org/)
 * [hmmer (version 3.2.1)](http://www.hmmer.org/)
 * [NCBI blast v2.11.0+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
+* BBMap [pileup.sh](https://github.com/BioInfoTools/BBMap/blob/master/sh/pileup.sh)
 * [Bakta](https://github.com/oschwengers/bakta)
 * [Pseudofinder](https://github.com/filip-husnik/pseudofinder)
 
@@ -42,14 +43,6 @@ anvi-gen-contigs-database -f TRYOCC_contigs.fasta -o TRYOCC.db -n 'Trypetimorpha
 ```shell
 anvi-run-hmms -c TRYOCC.db -T $NUM_THREADS
 ```
-#anvi-run-ncbi-cogs -c TRYOCC.db --num-threads $NUM_THREADS
-
-anvi-get-sequences-for-gene-calls -c TRYOCC.db -o TRYOCC-gene-calls.fa
-
-anvi-profile -i TRYOCC.bam -c TRYOCC.db --output-dir TRYOCC_profile --sample-name TRYOCC -T $NUM_THREADS
-
-pseudofinder.py annotate --genome prokka_SD7/SD7.gbk --outprefix SD7_pseudofinder --database ~/db/nr --threads $NUM_THREADS --skip_makedb
-
 
 ## Contigs taxonomic classification against whole NCBI nucleotide database
 ```shell
@@ -63,14 +56,13 @@ pileup.sh in=TRYOCC.bam out=cov_TRYOCC.txt
 ### Merging the taxonomy and coverage outputs with [Nanotax](https://github.com/diecasfranco/Nanotax/blob/main/NanoTax_v2.2.py)
 
 
+
+### Running bakta (in this case we used bakta on A. bogorensis W19, Ca. Kirkpatrickella and Acetobacteraceae_TRYOCC)
 ```shell
-# You may need to install pip3 before. #
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python3 get-pip.py
+for file in *fasta; do SampleName=`basename $file .fasta`; bakta "$SampleName".fasta --complete --translation-table 4 --keep-contig-headers --compliant --threads $NUM_THREADS --output a_bakta/bakta_"$SampleName"; done
+```
 
-# You may need to install or upgrade setuptools and wheel using pip3 before. #
-pip3 install --upgrade setuptools wheel
-
-# Download and install MetaDecoder version 1.0.18 #
-pip3 install -U https://github.com/liu-congcong/MetaDecoder/releases/download/v1.0.18/metadecoder-1.0.18-py3-none-any.whl
+### Running pseudofinder (example for Acetobacteraceae_TRYOCC)
+```shell
+pseudofinder.py annotate --genome bakta_AcetoTRYOCC/AcetoTRYOCC.gbk --outprefix AcetoTRYOCC_pseudofinder --database ~/db/nr --threads $NUM_THREADS --skip_makedb
 ```
